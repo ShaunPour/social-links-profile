@@ -59,6 +59,7 @@ body {
     .card {
         left: 35vw;
         top: 20vh;
+        max-width : 336px;
     }
     .btn {
         max-width: 25%;
